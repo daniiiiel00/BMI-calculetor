@@ -35,6 +35,6 @@ Category: Normal weight
 3. Run the script using Python:
 
 ```bash
-python BIM\ calculetor.py
+python / BIM calculetor.py
 
 
